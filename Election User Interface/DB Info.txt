@@ -1,0 +1,3 @@
+DB Username:	aliszt1
+DB Password:	bAPuyc00
+phpMyAdmin Link:	https://dbdev.cs.kent.edu/phpMyAdmin
